@@ -2,7 +2,7 @@
 
 This is a simplified version of PyTorch implementation for a self-attention neural scorer with 2D positional encoding.
 
-## Representation-Learning-for-Information-Extraction
+## Representation learning for information extraction
 
 This NN model is mentioned in an ACL [paper](https://aclanthology.org/2020.acl-main.580.pdf) from google research lab and the training sample is generated from ICDAR 2019 challenge that can be found here: https://github.com/Michael-Xiu/ICDAR-SROIE .
 
